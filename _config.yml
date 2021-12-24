@@ -13,7 +13,7 @@ presskit_download_link                    :                                     
 app_icon                                  : assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  : MumConnect                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Share your thoughts with your Fützi! MumConnect helps you to stay in touch with your family and create a hub for all activities around it. Dive into shared memories, schedule & organize your time together or simply enjoy the time with them on MumConnect!
+app_description                           : Share your thoughts with your Fützi! <br> MumConnect helps you to stay in touch with your family and create a hub for all activities around it. Dive into shared memories, schedule & organize your time together or simply enjoy the time with them on MumConnect!
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -41,7 +41,7 @@ features                                  :
     
   - title                                 : Photostream to enjoy precious moments
     description                           : Upload your favourite pics to savour time spent together over and over again!
-    fontawesome_icon_name                 : picture
+    fontawesome_icon_name                 : image
 
   - title                                 : To-Do list for upcoming topics
     description                           : Write down upcoming tasks to cover once you see each other again. Never forget important matters ever again!
